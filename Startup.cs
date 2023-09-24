@@ -1,4 +1,6 @@
 ﻿using LanchesMac.Context;
+using LanchesMac.Repositories;
+using LanchesMac.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 namespace LanchesMac
@@ -17,8 +19,10 @@ namespace LanchesMac
             services.AddControllersWithViews();
             services.AddDbContext<AppDbContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-            
+
             // Outros serviços necessários podem ser configurados aqui
+            services.AddTransient<ILancheRepository, LancheRepository>();
+            services.AddTransient<ICategoriaRepository, CategoriaRepository>();
         }
 
         private ServiceLifetime UseSqlServer()
