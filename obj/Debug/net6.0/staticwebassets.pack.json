@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LanchesMAc.bundle.scp.css",
-      "PackagePath": "staticwebassets\\LanchesMAc.bundle.scp.css"
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LanchesMac.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LanchesMac.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\css\\site.css",
@@ -11,6 +11,42 @@
     {
       "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\Envelope-icon.png",
+      "PackagePath": "staticwebassets\\images\\Envelope-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\Envelope-icon24.png",
+      "PackagePath": "staticwebassets\\images\\Envelope-icon24.png"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\Full-Cart-icon.png",
+      "PackagePath": "staticwebassets\\images\\Full-Cart-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\Home-icon.png",
+      "PackagePath": "staticwebassets\\images\\Home-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\Home-icon48.png",
+      "PackagePath": "staticwebassets\\images\\Home-icon48.png"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\Home-iconred.png",
+      "PackagePath": "staticwebassets\\images\\Home-iconred.png"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\acessonegado.png",
+      "PackagePath": "staticwebassets\\images\\acessonegado.png"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\adminarea.jpg",
+      "PackagePath": "staticwebassets\\images\\adminarea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\carousel1.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel1.jpg"
     },
     {
       "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\carousel11.jpg",
@@ -23,6 +59,158 @@
     {
       "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\carousel13.jpg",
       "PackagePath": "staticwebassets\\images\\carousel13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\carousel14.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\carousel2.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\carousel3.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\carousel4.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\carousel5.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\cart-5-16.ico",
+      "PackagePath": "staticwebassets\\images\\cart-5-16.ico"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\check-icon32.png",
+      "PackagePath": "staticwebassets\\images\\check-icon32.png"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\check-icon48.png",
+      "PackagePath": "staticwebassets\\images\\check-icon48.png"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\concluido1.png",
+      "PackagePath": "staticwebassets\\images\\concluido1.png"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\delete.png",
+      "PackagePath": "staticwebassets\\images\\delete.png"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\erro1.png",
+      "PackagePath": "staticwebassets\\images\\erro1.png"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\error1.jpg",
+      "PackagePath": "staticwebassets\\images\\error1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\facapedido1.jpg",
+      "PackagePath": "staticwebassets\\images\\facapedido1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\faleconosco1.jpg",
+      "PackagePath": "staticwebassets\\images\\faleconosco1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\lanchecombo.jpg",
+      "PackagePath": "staticwebassets\\images\\lanchecombo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\lanchemac2.png",
+      "PackagePath": "staticwebassets\\images\\lanchemac2.png"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\login1.jpg",
+      "PackagePath": "staticwebassets\\images\\login1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\logo_lanche2-sfd.png",
+      "PackagePath": "staticwebassets\\images\\logo_lanche2-sfd.png"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\logo_lanche2.jpg",
+      "PackagePath": "staticwebassets\\images\\logo_lanche2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\phone-app-icon.png",
+      "PackagePath": "staticwebassets\\images\\phone-app-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\phone-app-icon48.png",
+      "PackagePath": "staticwebassets\\images\\phone-app-icon48.png"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\produtos\\bolo_chocolate1.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\bolo_chocolate1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\produtos\\cheeseburger1.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\cheeseburger1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\produtos\\cheesesalada1.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\cheesesalada1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\produtos\\citrus1.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\citrus1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\produtos\\coca1.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\coca1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\produtos\\guarana1.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\guarana1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\produtos\\lanche_natural1.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\lanche_natural1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\produtos\\lanchenatural.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\lanchenatural.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\produtos\\lanchenatural_peitoperu.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\lanchenatural_peitoperu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\produtos\\mistoquente4.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\mistoquente4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\produtos\\pudim_leite1.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\pudim_leite1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\produtos\\pudim_leite3.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\pudim_leite3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\registro1.jpg",
+      "PackagePath": "staticwebassets\\images\\registro1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\remove.ico",
+      "PackagePath": "staticwebassets\\images\\remove.ico"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\transp1.jpg",
+      "PackagePath": "staticwebassets\\images\\transp1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\upload2.png",
+      "PackagePath": "staticwebassets\\images\\upload2.png"
+    },
+    {
+      "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\images\\visualizar1.jpg",
+      "PackagePath": "staticwebassets\\images\\visualizar1.jpg"
     },
     {
       "Id": "C:\\Users\\guilh\\source\\repos\\LanchesMAc\\wwwroot\\js\\site.js",
@@ -257,20 +445,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.LanchesMAc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.LanchesMac.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.LanchesMAc.props",
-      "PackagePath": "build\\LanchesMAc.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.LanchesMac.props",
+      "PackagePath": "build\\LanchesMac.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LanchesMAc.props",
-      "PackagePath": "buildMultiTargeting\\LanchesMAc.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LanchesMac.props",
+      "PackagePath": "buildMultiTargeting\\LanchesMac.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.LanchesMAc.props",
-      "PackagePath": "buildTransitive\\LanchesMAc.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.LanchesMac.props",
+      "PackagePath": "buildTransitive\\LanchesMac.props"
     }
   ],
   "ElementsToRemove": []
