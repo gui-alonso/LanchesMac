@@ -1,4 +1,7 @@
-﻿namespace LanchesMac
+﻿using LanchesMac.Context;
+using Microsoft.EntityFrameworkCore;
+
+namespace LanchesMac
 {
     public class Startup
     {
@@ -12,9 +15,9 @@
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-            /*services.AddEntityFrameworkSqlServer()
-                .AddDbContext<BancoContext>(o => o.UseSqlServer(Configuration.GetConnectionString("DataBase")));
-            */
+            services.AddDbContext<AppDbContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            
             // Outros serviços necessários podem ser configurados aqui
         }
 
