@@ -23,6 +23,12 @@ namespace LanchesMac
             // Outros serviços necessários podem ser configurados aqui
             services.AddTransient<ILancheRepository, LancheRepository>();
             services.AddTransient<ICategoriaRepository, CategoriaRepository>();
+
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+
+            // Configuração de Cache e Session
+            services.AddMemoryCache();
+            services.AddSession();
         }
 
         private ServiceLifetime UseSqlServer()
@@ -46,6 +52,7 @@ namespace LanchesMac
             app.UseStaticFiles();
 
             app.UseRouting();
+            app.UseSession();
 
             app.UseAuthorization();
 
