@@ -1,4 +1,5 @@
 ﻿using LanchesMac.Context;
+using LanchesMac.Models;
 using LanchesMac.Repositories;
 using LanchesMac.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
@@ -25,6 +26,9 @@ namespace LanchesMac
             services.AddTransient<ICategoriaRepository, CategoriaRepository>();
 
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+
+            // AddScoped - trabalha em nivel de requisição
+            services.AddScoped(sp => CarrinhoCompra.GetCarrinho(sp));
 
             // Configuração de Cache e Session
             services.AddMemoryCache();
